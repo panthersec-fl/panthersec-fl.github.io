@@ -1,0 +1,13 @@
+---
+layout: post
+title: Website Creation
+date: 2024-7-18
+categories: ["Welcome", "Website"]
+---
+
+## Purpose
+As of the time I am writing this post, I am moving into my senior year of undergrad at the University of Central Florida. Through my college years I have completed many projects and taken many certifications to prove myself to potential employers. But there isn’t a great way to present this information to potential employers outside of an interview, which can be hardest part in my opinion of the hiring process. 
+Not only does this website serve to impress employers, but also to document my learning journey into the cybersecurity field, showcase my homelab and teach others how they can do it as well.    
+
+## “Technical” Details
+I’ve wanted to stand up a website since high school but lacked either the fundamental knowledge or time to follow through, until now... Sure I could’ve stood up a webserver and served static HTML pages years ago but how would that reflect on my technical knowledge and capabilities? After further research into the different technologies and what it would take, I landed on the solution before you. This website is a modified Jekyll template hosted on GitHub Pages with a custom domain name. No home network at risk, visitors can navigate to my website via my own domain over a TLS connection and I would be able to serve all the content my heart could desire. Also since this website is hosted with Github Pages, I wouldn’t have to worry about website reliability and uptime as much as I would if I self-hosted. 
