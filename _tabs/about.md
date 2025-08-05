@@ -32,6 +32,15 @@ Onboarding Engineer @ Cyber Security Solutions in Tampa, FL
 1st Place - BSides Tampa HTB CTF
  - 7 Hour CTF Competition comprising challenges across AI, ICS, Pwn, Fullpwn, Web, and Reversing. Team members included Nevin Southammavong, Fagan Afandiyev, Grant Stevens, **Miles Stevens**, and Alex Sanders.
 
+HackUCF Member [2021-2023]
+
+Bsides Tampa Attendee [2023, 2024, 2025]
+
+Bsides Orlando Attendee [2023]
+
+Bsides Jacksonville Attendee [2024]
+
+HackSpaceCon Attendee  [2025]
 
 
 ## Homelab
