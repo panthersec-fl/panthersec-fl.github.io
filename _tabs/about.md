@@ -11,7 +11,6 @@ Onboarding Engineer @ Cyber Security Solutions in Tampa, FL
 
 
 ## Education
-### University
 **University of Central Florida**
  - Bachelor of Science in Information Technology
  - Minor in Secure Computing and Networks (SCAN)
