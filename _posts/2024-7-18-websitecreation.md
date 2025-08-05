@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Website Creation
 date: 2024-7-18
-categories: ["Welcome", "Website"]
+categories: [Website]
+tags: [Website]
 ---
 
 ## Purpose
