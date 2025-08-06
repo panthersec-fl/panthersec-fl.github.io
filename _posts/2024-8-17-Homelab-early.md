@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Short Homelab History
 date: 2024-8-17 4:41:00
 categories: [homelab]
+tags: [homelab]
 ---
 #### Beginnings
 
